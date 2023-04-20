@@ -5,6 +5,7 @@ This project was made to practice HTML and CSS with Responsive Web Design using 
 - Normalize
 - Tabler Icons
 - Google Fonts
+- ResponsivelyApp
 
 ## View and try the site:
 https://guidorosmanfreelancer.netlify.app/
